@@ -1,3 +1,4 @@
+import sys
 import struct
 import threading
 from rdt import socket
@@ -86,8 +87,8 @@ if __name__ == '__main__':
                 print('receive ACK {}'.format(expectedseqnum))
                 if expectedseqnum == flag:
                     print("Transfer complete!")
-                    client.close()
-                    break
+                    sender.timer.cancel()
+                    sys.exit()
                 sender.base = expectedseqnum + 1
             else:
                 print('pkt incorrupt!')

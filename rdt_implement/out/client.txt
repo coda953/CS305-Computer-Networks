@@ -4,199 +4,237 @@ Client received pkt of expectedseqnum 1
 receive ACK 1
 File reading ...
 Sender send pkt 2
+Time out! Client resend now pkt from 2 to 2£¡
+Time out! Client resend now pkt from 2 to 2£¡
 Client received pkt of expectedseqnum 2
-receive ACK 2
+pkt incorrupt!
 File reading ...
 Sender send pkt 3
-Client received pkt of expectedseqnum 19203
-pkt incorrupt!
 File reading ...
 Sender send pkt 4
-Time out! Client resend now pkt from 3 to 4£¡
-Time out! Client resend now pkt from 3 to 4£¡
-Time out! Client resend now pkt from 3 to 4£¡
-Client received pkt of expectedseqnum 4
-receive ACK 4
+Client received pkt of expectedseqnum 3
+receive ACK 3
 File reading ...
 Sender send pkt 5
-Client received pkt of expectedseqnum 5
-receive ACK 5
+Client received pkt of expectedseqnum 3
+receive ACK 3
 File reading ...
 Sender send pkt 6
-Time out! Client resend now pkt from 6 to 6£¡
-Time out! Client resend now pkt from 6 to 6£¡
-Client received pkt of expectedseqnum 17413
-pkt incorrupt!
+Time out! Client resend now pkt from 4 to 6£¡
+Client received pkt of expectedseqnum 3
+receive ACK 3
 File reading ...
 Sender send pkt 7
-Time out! Client resend now pkt from 6 to 7£¡
-Client received pkt of expectedseqnum 5
-receive ACK 5
+Client received pkt of expectedseqnum 3
+receive ACK 3
 File reading ...
 Sender send pkt 8
-Client received pkt of expectedseqnum 183
-pkt incorrupt!
+Time out! Client resend now pkt from 4 to 8£¡
+Client received pkt of expectedseqnum 3
+receive ACK 3
+Time out! Client resend now pkt from 4 to 8£¡
+Client received pkt of expectedseqnum 3
+receive ACK 3
+Client received pkt of expectedseqnum 4
+receive ACK 4
 File reading ...
 Sender send pkt 9
 Client received pkt of expectedseqnum 5
 receive ACK 5
 File reading ...
 Sender send pkt 10
-Client received pkt of expectedseqnum 5
-receive ACK 5
-Client received pkt of expectedseqnum 5
-receive ACK 5
-Time out! Client resend now pkt from 6 to 10£¡
-Client received pkt of expectedseqnum 5
-receive ACK 5
 Client received pkt of expectedseqnum 6
 receive ACK 6
 File reading ...
 Sender send pkt 11
-Time out! Client resend now pkt from 7 to 11£¡
-Client received pkt of expectedseqnum 143
+Client received pkt of expectedseqnum 6
 pkt incorrupt!
+Client received pkt of expectedseqnum 6
+receive ACK 6
+Time out! Client resend now pkt from 7 to 11£¡
+Client received pkt of expectedseqnum 6
+receive ACK 6
+Time out! Client resend now pkt from 7 to 11£¡
+Client received pkt of expectedseqnum 6
+receive ACK 6
 Client received pkt of expectedseqnum 7
 receive ACK 7
 File reading ...
 Sender send pkt 12
-Client received pkt of expectedseqnum 8
+Client received pkt of expectedseqnum 7
+Time out! Client resend now pkt from 8 to 12£¡
+receive ACK 7
+Time out! Client resend now pkt from 8 to 12£¡
+Client received pkt of expectedseqnum 51
 pkt incorrupt!
-Client received pkt of expectedseqnum 9
-receive ACK 9
+Client received pkt of expectedseqnum 8
+receive ACK 8
 File reading ...
 Sender send pkt 13
 Client received pkt of expectedseqnum 9
-pkt incorrupt!
+receive ACK 9
 File reading ...
 Sender send pkt 14
-Client received pkt of expectedseqnum 52
-Time out! Client resend now pkt from 10 to 14£¡
-pkt incorrupt!
 Client received pkt of expectedseqnum 10
 receive ACK 10
 File reading ...
 Sender send pkt 15
-Time out! Client resend now pkt from 11 to 15£¡
-Client received pkt of expectedseqnum 10
-receive ACK 10
 Client received pkt of expectedseqnum 11
 receive ACK 11
 File reading ...
 Sender send pkt 16
+Client received pkt of expectedseqnum 11
+receive ACK 11
+Client received pkt of expectedseqnum 38155
+pkt incorrupt!
+Time out! Client resend now pkt from 12 to 16£¡
 Client received pkt of expectedseqnum 12
 receive ACK 12
 File reading ...
 Sender send pkt 17
-Time out! Client resend now pkt from 13 to 17£¡
-Client received pkt of expectedseqnum 12
-receive ACK 12
-Client received pkt of expectedseqnum 12
-receive ACK 12
-Time out! Client resend now pkt from 13 to 17£¡
-Client received pkt of expectedseqnum 12
-receive ACK 12
 Client received pkt of expectedseqnum 13
 receive ACK 13
 File reading ...
 Sender send pkt 18
+Client received pkt of expectedseqnum 13
+receive ACK 13
+Time out! Client resend now pkt from 14 to 18£¡
+Client received pkt of expectedseqnum 13
+receive ACK 13
+Client received pkt of expectedseqnum 13
+receive ACK 13
+Client received pkt of expectedseqnum 13
+receive ACK 13
+Time out! Client resend now pkt from 14 to 18£¡
 Client received pkt of expectedseqnum 14
 receive ACK 14
 File reading ...
 Sender send pkt 19
-Client received pkt of expectedseqnum 129
+Client received pkt of expectedseqnum 13
+pkt incorrupt!
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
 pkt incorrupt!
 Time out! Client resend now pkt from 15 to 19£¡
-Client received pkt of expectedseqnum 15
-receive ACK 15
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Client received pkt of expectedseqnum 14
+pkt incorrupt!
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 14
+receive ACK 14
+Client received pkt of expectedseqnum 39
+pkt incorrupt!
+Time out! Client resend now pkt from 15 to 19£¡
+Time out! Client resend now pkt from 15 to 19£¡
+Client received pkt of expectedseqnum 16
+receive ACK 16
 File reading ...
 Sender send pkt 20
+File reading ...
+Sender send pkt 21
+Client received pkt of expectedseqnum 16
+pkt incorrupt!
+Client received pkt of expectedseqnum 16
+receive ACK 16
+Client received pkt of expectedseqnum 16
+receive ACK 16
+Client received pkt of expectedseqnum 16
+receive ACK 16
+Client received pkt of expectedseqnum 16
+Time out! Client resend now pkt from 17 to 21£¡
+receive ACK 16
 Client received pkt of expectedseqnum 17
 receive ACK 17
 File reading ...
-Sender send pkt 21
-File reading ...
 Sender send pkt 22
+Time out! Client resend now pkt from 18 to 22£¡
+Client received pkt of expectedseqnum 17
+receive ACK 17
 Client received pkt of expectedseqnum 18
 receive ACK 18
 File reading ...
 Sender send pkt 23
+Client received pkt of expectedseqnum 18
+receive ACK 18
+Client received pkt of expectedseqnum 18
+receive ACK 18
+Client received pkt of expectedseqnum 18
+receive ACK 18
+Client received pkt of expectedseqnum 18
+pkt incorrupt!
+Time out! Client resend now pkt from 19 to 23£¡
 Client received pkt of expectedseqnum 19
 receive ACK 19
 File reading ...
 Sender send pkt 24
-Client received pkt of expectedseqnum 19
-receive ACK 19
-Time out! Client resend now pkt from 20 to 24£¡
 Client received pkt of expectedseqnum 20
-receive ACK 20
-File reading ...
-Sender send pkt 25
+pkt incorrupt!
 Client received pkt of expectedseqnum 21
 receive ACK 21
 File reading ...
-Sender send pkt 26
+Sender send pkt 25
 Client received pkt of expectedseqnum 22
 receive ACK 22
+File reading ...
+Sender send pkt 26
+Client received pkt of expectedseqnum 223
+pkt incorrupt!
 File reading ...
 Sender send pkt 27
-Client received pkt of expectedseqnum 22
-receive ACK 22
-Time out! Client resend now pkt from 23 to 27£¡
-Client received pkt of expectedseqnum 29206
-pkt incorrupt!
-Client received pkt of expectedseqnum 64534
-pkt incorrupt!
-Client received pkt of expectedseqnum 22
-receive ACK 22
-Time out! Client resend now pkt from 23 to 27£¡
-Client received pkt of expectedseqnum 22
-receive ACK 22
-Time out! Client resend now pkt from 23 to 27£¡
-Client received pkt of expectedseqnum 22
-receive ACK 22
-Client received pkt of expectedseqnum 23
-receive ACK 23
-File reading ...
-Sender send pkt 28
 Client received pkt of expectedseqnum 24
 receive ACK 24
+File reading ...
+Sender send pkt 28
+Client received pkt of expectedseqnum 25
+receive ACK 25
 File reading ...
 Sender send pkt 29
 Client received pkt of expectedseqnum 25
 receive ACK 25
 File reading ...
 Sender send pkt 30
+Client received pkt of expectedseqnum 25
+receive ACK 25
+Time out! Client resend now pkt from 26 to 30£¡
+Client received pkt of expectedseqnum 25625
+pkt incorrupt!
 Client received pkt of expectedseqnum 26
 receive ACK 26
 File reading ...
 Sender send pkt 31
+Client received pkt of expectedseqnum 26
+receive ACK 26
+Client received pkt of expectedseqnum 26
+receive ACK 26
 Time out! Client resend now pkt from 27 to 31£¡
-Client received pkt of expectedseqnum 228
-pkt incorrupt!
+Client received pkt of expectedseqnum 26
+receive ACK 26
 Time out! Client resend now pkt from 27 to 31£¡
-Client received pkt of expectedseqnum 36243
-pkt incorrupt!
-Time out! Client resend now pkt from 27 to 31£¡
-Client received pkt of expectedseqnum 27
-pkt incorrupt!
 Client received pkt of expectedseqnum 27
 receive ACK 27
 File reading ...
 Sender send pkt 32
-Time out! Client resend now pkt from 28 to 32£¡
-Client received pkt of expectedseqnum 27
-receive ACK 27
-Time out! Client resend now pkt from 28 to 32£¡
-Client received pkt of expectedseqnum 27
-receive ACK 27
-Client received pkt of expectedseqnum 27
-receive ACK 27
-Client received pkt of expectedseqnum 27
-receive ACK 27
-Time out! Client resend now pkt from 28 to 32£¡
-Client received pkt of expectedseqnum 27
-receive ACK 27
 Client received pkt of expectedseqnum 28
 receive ACK 28
 File reading ...
@@ -205,66 +243,48 @@ Client received pkt of expectedseqnum 29
 receive ACK 29
 File reading ...
 Sender send pkt 34
-Client received pkt of expectedseqnum 31
-receive ACK 31
+Client received pkt of expectedseqnum 30
+receive ACK 30
 File reading ...
 Sender send pkt 35
 Client received pkt of expectedseqnum 31
 receive ACK 31
 File reading ...
 Sender send pkt 36
-Client received pkt of expectedseqnum 31
+Client received pkt of expectedseqnum 34079
+pkt incorrupt!
 Time out! Client resend now pkt from 32 to 36£¡
+Client received pkt of expectedseqnum 31
+receive ACK 31
+Time out! Client resend now pkt from 32 to 36£¡
+Client received pkt of expectedseqnum 31
 receive ACK 31
 Client received pkt of expectedseqnum 32
 receive ACK 32
 File reading ...
 Sender send pkt 37
-Client received pkt of expectedseqnum 32
-receive ACK 32
 Time out! Client resend now pkt from 33 to 37£¡
 Client received pkt of expectedseqnum 32
 receive ACK 32
 Client received pkt of expectedseqnum 33
 pkt incorrupt!
-Client received pkt of expectedseqnum 33
-receive ACK 33
+Time out! Client resend now pkt from 33 to 37£¡
+Client received pkt of expectedseqnum 34
+receive ACK 34
 File reading ...
 Sender send pkt 38
-Client received pkt of expectedseqnum 33
-receive ACK 33
-Time out! Client resend now pkt from 34 to 38£¡
-Client received pkt of expectedseqnum 33
-receive ACK 33
-Time out! Client resend now pkt from 34 to 38£¡
-Client received pkt of expectedseqnum 34
-pkt incorrupt!
 Client received pkt of expectedseqnum 35
 receive ACK 35
 File reading ...
 Sender send pkt 39
-Client received pkt of expectedseqnum 35
-receive ACK 35
-File reading ...
-Sender send pkt 40
-Client received pkt of expectedseqnum 35
-receive ACK 35
-Client received pkt of expectedseqnum 35
-receive ACK 35
-Time out! Client resend now pkt from 36 to 40£¡
-Client received pkt of expectedseqnum 132
-pkt incorrupt!
-Time out! Client resend now pkt from 36 to 40£¡
-Client received pkt of expectedseqnum 35
-Time out! Client resend now pkt from 36 to 40£¡
-receive ACK 35
-Time out! Client resend now pkt from 36 to 40£¡
 Client received pkt of expectedseqnum 36
 receive ACK 36
 File reading ...
-Sender send pkt 41
+Sender send pkt 40
 Client received pkt of expectedseqnum 37
 receive ACK 37
+File reading ...
+Sender send pkt 41
 File reading ...
 Sender send pkt 42
 Client received pkt of expectedseqnum 38
@@ -279,34 +299,54 @@ Client received pkt of expectedseqnum 40
 receive ACK 40
 File reading ...
 Sender send pkt 45
-Client received pkt of expectedseqnum 7721
-pkt incorrupt!
+Client received pkt of expectedseqnum 40
+receive ACK 40
+Time out! Client resend now pkt from 41 to 45£¡
+Client received pkt of expectedseqnum 40
+receive ACK 40
+Client received pkt of expectedseqnum 41
+receive ACK 41
+File reading ...
+Sender send pkt 46
 Client received pkt of expectedseqnum 42
 receive ACK 42
 File reading ...
-Sender send pkt 46
+Sender send pkt 47
 Client received pkt of expectedseqnum 43
 receive ACK 43
 File reading ...
-Sender send pkt 47
+Sender send pkt 48
+Client received pkt of expectedseqnum 43
+receive ACK 43
+Client received pkt of expectedseqnum 43
+receive ACK 43
+Client received pkt of expectedseqnum 2603
+pkt incorrupt!
+Time out! Client resend now pkt from 44 to 48£¡
+Client received pkt of expectedseqnum 43
+receive ACK 43
+Client received pkt of expectedseqnum 43
+receive ACK 43
+Client received pkt of expectedseqnum 43
+pkt incorrupt!
+Time out! Client resend now pkt from 44 to 48£¡
+Client received pkt of expectedseqnum 43
+pkt incorrupt!
+Time out! Client resend now pkt from 44 to 48£¡
+Client received pkt of expectedseqnum 43
+pkt incorrupt!
 Client received pkt of expectedseqnum 44
 receive ACK 44
 File reading ...
-Sender send pkt 48
-Client received pkt of expectedseqnum 45
-receive ACK 45
-File reading ...
 Sender send pkt 49
 Client received pkt of expectedseqnum 45
-Time out! Client resend now pkt from 46 to 49£¡
-receive ACK 45
-File reading ...
-Sender send pkt 50
-Client received pkt of expectedseqnum 46
+pkt incorrupt!
+Client received pkt of expectedseqnum 170
 pkt incorrupt!
 Client received pkt of expectedseqnum 47
-pkt incorrupt!
-Time out! Client resend now pkt from 46 to 50£¡
+receive ACK 47
+File reading ...
+Sender send pkt 50
 Client received pkt of expectedseqnum 47
 receive ACK 47
 File reading ...
@@ -322,12 +362,8 @@ receive ACK 47
 Client received pkt of expectedseqnum 47
 receive ACK 47
 Time out! Client resend now pkt from 48 to 52£¡
-Time out! Client resend now pkt from 48 to 52£¡
 Client received pkt of expectedseqnum 47
 receive ACK 47
-Client received pkt of expectedseqnum 47
-receive ACK 47
-Time out! Client resend now pkt from 48 to 52£¡
 Client received pkt of expectedseqnum 48
 receive ACK 48
 File reading ...
@@ -336,117 +372,126 @@ Client received pkt of expectedseqnum 49
 receive ACK 49
 File reading ...
 Sender send pkt 54
+Client received pkt of expectedseqnum 24515
+pkt incorrupt!
 Client received pkt of expectedseqnum 50
 receive ACK 50
 File reading ...
 Sender send pkt 55
-Client received pkt of expectedseqnum 51
-receive ACK 51
-File reading ...
-Sender send pkt 56
+Client received pkt of expectedseqnum 50
+receive ACK 50
+Time out! Client resend now pkt from 51 to 55£¡
+Client received pkt of expectedseqnum 50
+receive ACK 50
 Client received pkt of expectedseqnum 52
 receive ACK 52
 File reading ...
+Sender send pkt 56
+File reading ...
 Sender send pkt 57
-Client received pkt of expectedseqnum 53
-receive ACK 53
+Client received pkt of expectedseqnum 231
+pkt incorrupt!
+Client received pkt of expectedseqnum 54
+receive ACK 54
 File reading ...
 Sender send pkt 58
 Client received pkt of expectedseqnum 54
+receive ACK 54
+File reading ...
+Sender send pkt 59
+Client received pkt of expectedseqnum 6336
 pkt incorrupt!
+Time out! Client resend now pkt from 55 to 59£¡
 Client received pkt of expectedseqnum 55
 receive ACK 55
 File reading ...
-Sender send pkt 59
-File reading ...
 Sender send pkt 60
-Client received pkt of expectedseqnum 21816
-pkt incorrupt!
 Client received pkt of expectedseqnum 56
 receive ACK 56
 File reading ...
 Sender send pkt 61
-Client received pkt of expectedseqnum 56
-receive ACK 56
-Time out! Client resend now pkt from 57 to 61£¡
-Client received pkt of expectedseqnum 56
-receive ACK 56
 Client received pkt of expectedseqnum 57
 receive ACK 57
 File reading ...
 Sender send pkt 62
-Client received pkt of expectedseqnum 16
-pkt incorrupt!
-Client received pkt of expectedseqnum 100
-pkt incorrupt!
-Time out! Client resend now pkt from 58 to 62£¡
-Client received pkt of expectedseqnum 59
-receive ACK 59
+Client received pkt of expectedseqnum 58
+receive ACK 58
 File reading ...
 Sender send pkt 63
 Client received pkt of expectedseqnum 60
 receive ACK 60
 File reading ...
 Sender send pkt 64
+Client received pkt of expectedseqnum 61
+receive ACK 61
 File reading ...
 Sender send pkt 65
-Client received pkt of expectedseqnum 60
-pkt incorrupt!
-Time out! Client resend now pkt from 61 to 65£¡
-Client received pkt of expectedseqnum 60
-receive ACK 60
 Client received pkt of expectedseqnum 61
 receive ACK 61
 File reading ...
 Sender send pkt 66
+Client received pkt of expectedseqnum 61
+receive ACK 61
+Client received pkt of expectedseqnum 25149
+pkt incorrupt!
+Client received pkt of expectedseqnum 61
+receive ACK 61
+Client received pkt of expectedseqnum 61
+receive ACK 61
+Time out! Client resend now pkt from 62 to 66£¡
+Client received pkt of expectedseqnum 61
+receive ACK 61
 Client received pkt of expectedseqnum 62
 receive ACK 62
 File reading ...
 Sender send pkt 67
-Time out! Client resend now pkt from 63 to 67£¡
-Client received pkt of expectedseqnum 62
-receive ACK 62
-Client received pkt of expectedseqnum 7999
-pkt incorrupt!
-Time out! Client resend now pkt from 63 to 67£¡
-Client received pkt of expectedseqnum 64
-receive ACK 64
+Client received pkt of expectedseqnum 63
+receive ACK 63
 File reading ...
 Sender send pkt 68
-Time out! Client resend now pkt from 65 to 68£¡
 Client received pkt of expectedseqnum 64
 receive ACK 64
 File reading ...
 Sender send pkt 69
-Time out! Client resend now pkt from 65 to 69£¡
-Client received pkt of expectedseqnum 207
-pkt incorrupt!
+Client received pkt of expectedseqnum 64
+receive ACK 64
 Client received pkt of expectedseqnum 64
 receive ACK 64
 Time out! Client resend now pkt from 65 to 69£¡
+Client received pkt of expectedseqnum 64
+receive ACK 64
 Client received pkt of expectedseqnum 65
+receive ACK 65
+File reading ...
+Sender send pkt 70
+Time out! Client resend now pkt from 66 to 70£¡
+Client received pkt of expectedseqnum 65
+receive ACK 65
+Client received pkt of expectedseqnum 65
+receive ACK 65
+Client received pkt of expectedseqnum 65
+receive ACK 65
+Time out! Client resend now pkt from 66 to 70£¡
+Client received pkt of expectedseqnum 65
+receive ACK 65
+Client received pkt of expectedseqnum 65
+Time out! Client resend now pkt from 66 to 70£¡
+receive ACK 65
+Client received pkt of expectedseqnum 66
 pkt incorrupt!
-Time out! Client resend now pkt from 65 to 69£¡
+Time out! Client resend now pkt from 66 to 70£¡
 Client received pkt of expectedseqnum 66
 receive ACK 66
 File reading ...
-Sender send pkt 70
-Client received pkt of expectedseqnum 67
-pkt incorrupt!
-File reading ...
 Sender send pkt 71
-Client received pkt of expectedseqnum 68
-pkt incorrupt!
-Time out! Client resend now pkt from 67 to 71£¡
+Client received pkt of expectedseqnum 67
+receive ACK 67
+File reading ...
+Sender send pkt 72
 Client received pkt of expectedseqnum 68
 receive ACK 68
 File reading ...
-Sender send pkt 72
-Client received pkt of expectedseqnum 69
-receive ACK 69
-File reading ...
 Sender send pkt 73
-Time out! Client resend now pkt from 70 to 73£¡
 Client received pkt of expectedseqnum 69
 receive ACK 69
 File reading ...
@@ -455,56 +500,69 @@ Client received pkt of expectedseqnum 70
 receive ACK 70
 File reading ...
 Sender send pkt 75
+Client received pkt of expectedseqnum 70
+receive ACK 70
+Time out! Client resend now pkt from 71 to 75£¡
+Client received pkt of expectedseqnum 70
+receive ACK 70
 Client received pkt of expectedseqnum 71
 receive ACK 71
 File reading ...
 Sender send pkt 76
+Time out! Client resend now pkt from 72 to 76£¡
+Time out! Client resend now pkt from 72 to 76£¡
 Client received pkt of expectedseqnum 72
 receive ACK 72
 File reading ...
 Sender send pkt 77
+Time out! Client resend now pkt from 73 to 77£¡
 Client received pkt of expectedseqnum 72
 receive ACK 72
-Time out! Client resend now pkt from 73 to 77£¡
-Client received pkt of expectedseqnum 25160
-pkt incorrupt!
 Client received pkt of expectedseqnum 73
-receive ACK 73
+pkt incorrupt!
+Client received pkt of expectedseqnum 74
+receive ACK 74
 File reading ...
 Sender send pkt 78
-Time out! Client resend now pkt from 74 to 78£¡
-Client received pkt of expectedseqnum 41803
-pkt incorrupt!
-Time out! Client resend now pkt from 74 to 78£¡
-Client received pkt of expectedseqnum 75
-pkt incorrupt!
-Client received pkt of expectedseqnum 76
-receive ACK 76
+Time out! Client resend now pkt from 75 to 78£¡
+Client received pkt of expectedseqnum 74
+receive ACK 74
 File reading ...
 Sender send pkt 79
-Client received pkt of expectedseqnum 139
-pkt incorrupt!
+Client received pkt of expectedseqnum 75
+receive ACK 75
 File reading ...
 Sender send pkt 80
-File reading ...
-Sender send pkt 81
-Client received pkt of expectedseqnum 77
-receive ACK 77
-File reading ...
-Sender send pkt 82
-Client received pkt of expectedseqnum 77
+Client received pkt of expectedseqnum 75
+receive ACK 75
+Time out! Client resend now pkt from 76 to 80£¡
+Client received pkt of expectedseqnum 75
+receive ACK 75
+Time out! Client resend now pkt from 76 to 80£¡
+Client received pkt of expectedseqnum 78
 pkt incorrupt!
-Time out! Client resend now pkt from 78 to 82£¡
-Client received pkt of expectedseqnum 77
-receive ACK 77
+Client received pkt of expectedseqnum 21068
+pkt incorrupt!
 Client received pkt of expectedseqnum 78
 receive ACK 78
 File reading ...
-Sender send pkt 83
+Sender send pkt 81
+Time out! Client resend now pkt from 79 to 81£¡
+Client received pkt of expectedseqnum 79
+pkt incorrupt!
+File reading ...
+Sender send pkt 82
 Client received pkt of expectedseqnum 79
 receive ACK 79
 File reading ...
+Sender send pkt 83
+Client received pkt of expectedseqnum 79
+pkt incorrupt!
+File reading ...
 Sender send pkt 84
+Client received pkt of expectedseqnum 79
+Time out! Client resend now pkt from 80 to 84£¡
+receive ACK 79
 Time out! Client resend now pkt from 80 to 84£¡
 Client received pkt of expectedseqnum 79
 receive ACK 79
@@ -512,139 +570,181 @@ Client received pkt of expectedseqnum 80
 receive ACK 80
 File reading ...
 Sender send pkt 85
-Client received pkt of expectedseqnum 82
-receive ACK 82
+Client received pkt of expectedseqnum 81
+receive ACK 81
 File reading ...
 Sender send pkt 86
-Client received pkt of expectedseqnum 84
+Client received pkt of expectedseqnum 157
 pkt incorrupt!
+Client received pkt of expectedseqnum 83
+pkt incorrupt!
+Client received pkt of expectedseqnum 84
+receive ACK 84
 File reading ...
 Sender send pkt 87
 Client received pkt of expectedseqnum 84
 receive ACK 84
 File reading ...
 Sender send pkt 88
-Client received pkt of expectedseqnum 84
-receive ACK 84
+Time out! Client resend now pkt from 85 to 88£¡
+Client received pkt of expectedseqnum 68
+pkt incorrupt!
 File reading ...
 Sender send pkt 89
-Client received pkt of expectedseqnum 84
-pkt incorrupt!
-Time out! Client resend now pkt from 85 to 89£¡
-Client received pkt of expectedseqnum 85
-receive ACK 85
+Client received pkt of expectedseqnum 86
+receive ACK 86
 File reading ...
 Sender send pkt 90
 Client received pkt of expectedseqnum 86
 receive ACK 86
 File reading ...
 Sender send pkt 91
-Time out! Client resend now pkt from 87 to 91£¡
-Client received pkt of expectedseqnum 167
+Client received pkt of expectedseqnum 55894
 pkt incorrupt!
+Time out! Client resend now pkt from 87 to 91£¡
+Client received pkt of expectedseqnum 86
+receive ACK 86
 Client received pkt of expectedseqnum 87
-receive ACK 87
-File reading ...
-Sender send pkt 92
-Time out! Client resend now pkt from 88 to 92£¡
-Client received pkt of expectedseqnum 87
-receive ACK 87
-Time out! Client resend now pkt from 88 to 92£¡
-Client received pkt of expectedseqnum 87
-receive ACK 87
-Time out! Client resend now pkt from 88 to 92£¡
-Client received pkt of expectedseqnum 16
 pkt incorrupt!
 Client received pkt of expectedseqnum 88
 receive ACK 88
 File reading ...
+Sender send pkt 92
+Client received pkt of expectedseqnum 88
+receive ACK 88
+File reading ...
 Sender send pkt 93
+Client received pkt of expectedseqnum 88
+receive ACK 88
+Client received pkt of expectedseqnum 88
+pkt incorrupt!
 Time out! Client resend now pkt from 89 to 93£¡
-Client received pkt of expectedseqnum 89
-receive ACK 89
+Client received pkt of expectedseqnum 88
+pkt incorrupt!
+Client received pkt of expectedseqnum 8537
+pkt incorrupt!
+Client received pkt of expectedseqnum 90
+receive ACK 90
 File reading ...
 Sender send pkt 94
-Client received pkt of expectedseqnum 53
-pkt incorrupt!
-Time out! Client resend now pkt from 90 to 94£¡
+Time out! Client resend now pkt from 91 to 94£¡
+Client received pkt of expectedseqnum 90
+receive ACK 90
+File reading ...
+Sender send pkt 95
+Client received pkt of expectedseqnum 90
+receive ACK 90
+Client received pkt of expectedseqnum 90
+receive ACK 90
+Time out! Client resend now pkt from 91 to 95£¡
+Client received pkt of expectedseqnum 90
+receive ACK 90
+Client received pkt of expectedseqnum 90
+receive ACK 90
+Client received pkt of expectedseqnum 90
+Time out! Client resend now pkt from 91 to 95£¡
+receive ACK 90
 Client received pkt of expectedseqnum 91
 receive ACK 91
 File reading ...
-Sender send pkt 95
-Client received pkt of expectedseqnum 168
-pkt incorrupt!
-File reading ...
 Sender send pkt 96
-Client received pkt of expectedseqnum 94
-receive ACK 94
+Client received pkt of expectedseqnum 92
+pkt incorrupt!
+Time out! Client resend now pkt from 92 to 96£¡
+Client received pkt of expectedseqnum 92
+receive ACK 92
 File reading ...
 Sender send pkt 97
-Time out! Client resend now pkt from 95 to 97£¡
-Client received pkt of expectedseqnum 94
-receive ACK 94
+Client received pkt of expectedseqnum 93
+receive ACK 93
 File reading ...
 Sender send pkt 98
 Client received pkt of expectedseqnum 94
-receive ACK 94
-File reading ...
-Sender send pkt 99
-Client received pkt of expectedseqnum 94
-receive ACK 94
-Time out! Client resend now pkt from 95 to 99£¡
-Client received pkt of expectedseqnum 94
-receive ACK 94
+pkt incorrupt!
 Client received pkt of expectedseqnum 95
 receive ACK 95
 File reading ...
+Sender send pkt 99
+Client received pkt of expectedseqnum 96
+receive ACK 96
+File reading ...
 Sender send pkt 100
 Client received pkt of expectedseqnum 96
+Time out! Client resend now pkt from 97 to 100£¡
+receive ACK 96
+File reading ...
+Sender send pkt 101
+Client received pkt of expectedseqnum 96
+receive ACK 96
+Client received pkt of expectedseqnum 51
 pkt incorrupt!
+Time out! Client resend now pkt from 97 to 101£¡
 Client received pkt of expectedseqnum 97
 receive ACK 97
 File reading ...
-Sender send pkt 101
+Sender send pkt 102
 Client received pkt of expectedseqnum 98
 receive ACK 98
 File reading ...
-Sender send pkt 102
+Sender send pkt 103
 Client received pkt of expectedseqnum 99
 receive ACK 99
 File reading ...
-Sender send pkt 103
-Client received pkt of expectedseqnum 61541
-pkt incorrupt!
-File reading ...
 Sender send pkt 104
+Client received pkt of expectedseqnum 100
+receive ACK 100
+File reading ...
+Sender send pkt 105
 Client received pkt of expectedseqnum 102
 receive ACK 102
 File reading ...
-Sender send pkt 105
+Sender send pkt 106
+Client received pkt of expectedseqnum 32103
+pkt incorrupt!
+File reading ...
+Sender send pkt 107
+Client received pkt of expectedseqnum 26472
+pkt incorrupt!
+Time out! Client resend now pkt from 103 to 107£¡
 Client received pkt of expectedseqnum 104
 receive ACK 104
 File reading ...
-Sender send pkt 106
+Sender send pkt 108
+Client received pkt of expectedseqnum 104
+receive ACK 104
+File reading ...
+Sender send pkt 109
+Client received pkt of expectedseqnum 104
+receive ACK 104
+Client received pkt of expectedseqnum 104
+receive ACK 104
+Time out! Client resend now pkt from 105 to 109£¡
+Client received pkt of expectedseqnum 105
+pkt incorrupt!
+Time out! Client resend now pkt from 105 to 109£¡
 Client received pkt of expectedseqnum 105
 receive ACK 105
 File reading ...
-Sender send pkt 107
+Sender send pkt 110
 Client received pkt of expectedseqnum 106
 receive ACK 106
 File reading ...
-Sender send pkt 108
+Sender send pkt 111
 Client received pkt of expectedseqnum 107
 receive ACK 107
 File reading ...
-Sender send pkt 109
-Client received pkt of expectedseqnum 108
-receive ACK 108
-File reading ...
-Sender send pkt 110
-File reading ...
-Sender send pkt 111
-Client received pkt of expectedseqnum 109
-pkt incorrupt!
-File reading ...
 Sender send pkt 112
+Client received pkt of expectedseqnum 107
+receive ACK 107
+Client received pkt of expectedseqnum 107
+pkt incorrupt!
+Client received pkt of expectedseqnum 107
+receive ACK 107
+Time out! Client resend now pkt from 108 to 112£¡
+Client received pkt of expectedseqnum 14
+pkt incorrupt!
+Client received pkt of expectedseqnum 109
+receive ACK 109
 File reading ...
 Sender send pkt 113
 Client received pkt of expectedseqnum 110
@@ -655,29 +755,32 @@ Client received pkt of expectedseqnum 111
 receive ACK 111
 File reading ...
 Sender send pkt 115
-Client received pkt of expectedseqnum 112
-pkt incorrupt!
 File reading ...
 Sender send pkt 116
+Client received pkt of expectedseqnum 111
+receive ACK 111
+Time out! Client resend now pkt from 112 to 116£¡
+Client received pkt of expectedseqnum 111
+receive ACK 111
+Client received pkt of expectedseqnum 111
+receive ACK 111
+Client received pkt of expectedseqnum 111
+receive ACK 111
+Time out! Client resend now pkt from 112 to 116£¡
 Client received pkt of expectedseqnum 112
 receive ACK 112
 File reading ...
 Sender send pkt 117
-Time out! Client resend now pkt from 113 to 117£¡
-Client received pkt of expectedseqnum 112
-pkt incorrupt!
-Client received pkt of expectedseqnum 112
-pkt incorrupt!
-Time out! Client resend now pkt from 113 to 117£¡
-Client received pkt of expectedseqnum 112
-receive ACK 112
-Client received pkt of expectedseqnum 57
-pkt incorrupt!
-Time out! Client resend now pkt from 113 to 117£¡
 Client received pkt of expectedseqnum 113
 receive ACK 113
 File reading ...
 Sender send pkt 118
+Time out! Client resend now pkt from 114 to 118£¡
+Client received pkt of expectedseqnum 44401
+pkt incorrupt!
+Time out! Client resend now pkt from 114 to 118£¡
+Client received pkt of expectedseqnum 113
+receive ACK 113
 Client received pkt of expectedseqnum 114
 receive ACK 114
 File reading ...
@@ -686,6 +789,18 @@ Client received pkt of expectedseqnum 115
 receive ACK 115
 File reading ...
 Sender send pkt 120
+Client received pkt of expectedseqnum 115
+receive ACK 115
+Time out! Client resend now pkt from 116 to 120£¡
+Client received pkt of expectedseqnum 115
+receive ACK 115
+Client received pkt of expectedseqnum 115
+receive ACK 115
+Client received pkt of expectedseqnum 115
+receive ACK 115
+Time out! Client resend now pkt from 116 to 120£¡
+Client received pkt of expectedseqnum 115
+receive ACK 115
 Client received pkt of expectedseqnum 116
 receive ACK 116
 File reading ...
@@ -695,15 +810,15 @@ receive ACK 117
 File reading ...
 Sender send pkt 122
 Client received pkt of expectedseqnum 117
+receive ACK 117
+Time out! Client resend now pkt from 118 to 122£¡
+Client received pkt of expectedseqnum 117
+receive ACK 117
+Time out! Client resend now pkt from 118 to 122£¡
+Client received pkt of expectedseqnum 117
 pkt incorrupt!
-Client received pkt of expectedseqnum 117
-receive ACK 117
-Client received pkt of expectedseqnum 117
-Time out! Client resend now pkt from 118 to 122£¡
-receive ACK 117
-Time out! Client resend now pkt from 118 to 122£¡
-Client received pkt of expectedseqnum 117
-receive ACK 117
+Client received pkt of expectedseqnum 65142
+pkt incorrupt!
 Client received pkt of expectedseqnum 119
 receive ACK 119
 File reading ...
@@ -712,7 +827,7 @@ Client received pkt of expectedseqnum 120
 receive ACK 120
 File reading ...
 Sender send pkt 124
-Client received pkt of expectedseqnum 120
+Client received pkt of expectedseqnum 53467
 pkt incorrupt!
 File reading ...
 Sender send pkt 125
@@ -721,53 +836,45 @@ receive ACK 120
 Client received pkt of expectedseqnum 120
 receive ACK 120
 Time out! Client resend now pkt from 121 to 125£¡
-Client received pkt of expectedseqnum 26232
+Client received pkt of expectedseqnum 120
+receive ACK 120
+Client received pkt of expectedseqnum 121
 pkt incorrupt!
 Client received pkt of expectedseqnum 122
 receive ACK 122
 File reading ...
 Sender send pkt 126
-Client received pkt of expectedseqnum 122
-receive ACK 122
 File reading ...
 Sender send pkt 127
-Time out! Client resend now pkt from 123 to 127£¡
 Client received pkt of expectedseqnum 122
 receive ACK 122
-Client received pkt of expectedseqnum 123
-receive ACK 123
+Time out! Client resend now pkt from 123 to 127£¡
+Client received pkt of expectedseqnum 94
+pkt incorrupt!
+Time out! Client resend now pkt from 123 to 127£¡
+Client received pkt of expectedseqnum 124
+receive ACK 124
 File reading ...
 Sender send pkt 128
-Client received pkt of expectedseqnum 124
-receive ACK 124
-File reading ...
-Sender send pkt 129
-Client received pkt of expectedseqnum 36732
-pkt incorrupt!
-Time out! Client resend now pkt from 125 to 129£¡
-Client received pkt of expectedseqnum 24188
-pkt incorrupt!
-Time out! Client resend now pkt from 125 to 129£¡
-Client received pkt of expectedseqnum 124
-receive ACK 124
-Client received pkt of expectedseqnum 5283
-pkt incorrupt!
-Time out! Client resend now pkt from 125 to 129£¡
+Client received pkt of expectedseqnum 123
+receive ACK 123
 Client received pkt of expectedseqnum 125
 receive ACK 125
 File reading ...
-Sender send pkt 130
+Sender send pkt 129
 Client received pkt of expectedseqnum 126
 receive ACK 126
+File reading ...
+Sender send pkt 130
+Client received pkt of expectedseqnum 58
+Time out! Client resend now pkt from 127 to 130£¡
+pkt incorrupt!
 File reading ...
 Sender send pkt 131
 Client received pkt of expectedseqnum 127
 receive ACK 127
 File reading ...
 Sender send pkt 132
-Time out! Client resend now pkt from 128 to 132£¡
-Client received pkt of expectedseqnum 127
-receive ACK 127
 Client received pkt of expectedseqnum 128
 receive ACK 128
 File reading ...
@@ -776,154 +883,148 @@ Client received pkt of expectedseqnum 129
 receive ACK 129
 File reading ...
 Sender send pkt 134
-Time out! Client resend now pkt from 130 to 134£¡
-Client received pkt of expectedseqnum 140
-pkt incorrupt!
 Client received pkt of expectedseqnum 130
 receive ACK 130
 File reading ...
 Sender send pkt 135
-Time out! Client resend now pkt from 131 to 135£¡
 Client received pkt of expectedseqnum 130
 receive ACK 130
 Time out! Client resend now pkt from 131 to 135£¡
-Client received pkt of expectedseqnum 130
-receive ACK 130
+Client received pkt of expectedseqnum 52866
+pkt incorrupt!
 Client received pkt of expectedseqnum 131
 receive ACK 131
 File reading ...
 Sender send pkt 136
+Time out! Client resend now pkt from 132 to 136£¡
+Client received pkt of expectedseqnum 131
+receive ACK 131
+Client received pkt of expectedseqnum 131
+Time out! Client resend now pkt from 132 to 136£¡
+receive ACK 131
 Client received pkt of expectedseqnum 132
 receive ACK 132
 File reading ...
 Sender send pkt 137
+Client received pkt of expectedseqnum 30759
+pkt incorrupt!
+Time out! Client resend now pkt from 133 to 137£¡
+Client received pkt of expectedseqnum 133
+receive ACK 133
+File reading ...
+Sender send pkt 138
+Time out! Client resend now pkt from 134 to 138£¡
+Client received pkt of expectedseqnum 133
+receive ACK 133
 Client received pkt of expectedseqnum 134
 receive ACK 134
 File reading ...
-Sender send pkt 138
-File reading ...
 Sender send pkt 139
+Time out! Client resend now pkt from 135 to 139£¡
+Client received pkt of expectedseqnum 134
+receive ACK 134
+Time out! Client resend now pkt from 135 to 139£¡
+Client received pkt of expectedseqnum 134
+receive ACK 134
+Time out! Client resend now pkt from 135 to 139£¡
+Client received pkt of expectedseqnum 134
+receive ACK 134
 Client received pkt of expectedseqnum 135
 receive ACK 135
 File reading ...
 Sender send pkt 140
-Client received pkt of expectedseqnum 5385
+Client received pkt of expectedseqnum 136
+receive ACK 136
+File reading ...
+Sender send pkt 141
+Client received pkt of expectedseqnum 188
 pkt incorrupt!
+Client received pkt of expectedseqnum 137
+receive ACK 137
+File reading ...
+Sender send pkt 142
+Time out! Client resend now pkt from 138 to 142£¡
+Client received pkt of expectedseqnum 137
+Time out! Client resend now pkt from 138 to 142£¡
+receive ACK 137
 Client received pkt of expectedseqnum 138
+receive ACK 138
+File reading ...
+Sender send pkt 143
+Client received pkt of expectedseqnum 80
 pkt incorrupt!
+Time out! Client resend now pkt from 139 to 143£¡
 Client received pkt of expectedseqnum 139
 receive ACK 139
 File reading ...
-Sender send pkt 141
-Client received pkt of expectedseqnum 140
-receive ACK 140
-File reading ...
-Sender send pkt 142
+Sender send pkt 144
+Client received pkt of expectedseqnum 139
+Time out! Client resend now pkt from 140 to 144£¡
+pkt incorrupt!
+Client received pkt of expectedseqnum 139
+receive ACK 139
+Client received pkt of expectedseqnum 139
+receive ACK 139
+Time out! Client resend now pkt from 140 to 144£¡
+Client received pkt of expectedseqnum 139
+receive ACK 139
 Client received pkt of expectedseqnum 141
 receive ACK 141
 File reading ...
-Sender send pkt 143
-Client received pkt of expectedseqnum 96
-pkt incorrupt!
-File reading ...
-Sender send pkt 144
-Time out! Client resend now pkt from 142 to 144£¡
-Time out! Client resend now pkt from 142 to 144£¡
-Client received pkt of expectedseqnum 143
-pkt incorrupt!
-File reading ...
 Sender send pkt 145
-Client received pkt of expectedseqnum 143
-receive ACK 143
+Client received pkt of expectedseqnum 142
+receive ACK 142
 File reading ...
 Sender send pkt 146
+Client received pkt of expectedseqnum 143
+receive ACK 143
 File reading ...
 Sender send pkt 147
 Client received pkt of expectedseqnum 143
 receive ACK 143
 File reading ...
 Sender send pkt 148
-Client received pkt of expectedseqnum 143
-receive ACK 143
 Time out! Client resend now pkt from 144 to 148£¡
 Client received pkt of expectedseqnum 144
 receive ACK 144
 File reading ...
 Sender send pkt 149
-Client received pkt of expectedseqnum 62
-pkt incorrupt!
 Time out! Client resend now pkt from 145 to 149£¡
-Client received pkt of expectedseqnum 1424
+Client received pkt of expectedseqnum 28304
 pkt incorrupt!
 Client received pkt of expectedseqnum 145
-pkt incorrupt!
+receive ACK 145
+File reading ...
+File read completed.
 Client received pkt of expectedseqnum 146
-receive ACK 146
+pkt incorrupt!
 File reading ...
 File read completed.
 File reading ...
 File read completed.
+Time out! Client resend now pkt from 146 to 149£¡
+Client received pkt of expectedseqnum 58258
+pkt incorrupt!
+File reading ...
+File read completed.
+Client received pkt of expectedseqnum 147
+receive ACK 147
+File reading ...
+File read completed.
+Client received pkt of expectedseqnum 148
+pkt incorrupt!
+File reading ...
+File read completed.
+Time out! Client resend now pkt from 148 to 149£¡
 Client received pkt of expectedseqnum 148
 receive ACK 148
 File reading ...
 File read completed.
-Client received pkt of expectedseqnum 21
+Client received pkt of expectedseqnum 19
 pkt incorrupt!
+Time out! Client resend now pkt from 149 to 149£¡
 File reading ...
 File read completed.
-Time out! Client resend now pkt from 149 to 149£¡
 Client received pkt of expectedseqnum 149
 receive ACK 149
 Transfer complete!
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡
-Time out! Client resend now pkt from 149 to 149£¡

@@ -1,4 +1,5 @@
 from rdt import socket
+import sys
 import time
 import threading
 import struct
@@ -43,14 +44,15 @@ if __name__ == '__main__':
     server.bind((SERVER_ADDR, SERVER_PORT))
     receiver = Receiver(server, SERVER_ADDR, SERVER_PORT, 1, 5)
     print('Waiting for receiving ...')
-    rcv_message = []
+    rcv_file = open('./out/rcv_message.txt', 'wb')
     start_time = time.time()
     end_time = start_time
     while True:
         start_time = time.time()
-        if abs(end_time - start_time) > 1000:
-            server.close()
-            break
+        if abs(end_time - start_time) > 100:
+            print('Server closed.')
+            receiver.timer.cancel()
+            sys.exit()
         try:
             rcvpkt, addr = server.recvfrom(4096)
             end_time = time.time()
@@ -61,8 +63,7 @@ if __name__ == '__main__':
             data = rcvpkt[4:]
             if receiver.calc_checksum(rcvpkt[0:2] + rcvpkt[4:]) == chcksum and receiver.expectedseqnum == nextseqnum:
 
-                rcv_message.append(data)
-                print(rcv_message)
+                rcv_file.write(data)
                 print("Send ACK of pkt {}".format(receiver.expectedseqnum))
 
                 snd_pkt = receiver.make_pkt(receiver.expectedseqnum, receiver.calc_checksum(struct.pack('>HH', receiver.expectedseqnum, receiver.ACK)))
@@ -78,4 +79,8 @@ if __name__ == '__main__':
                 print('pkt incorrupt!')
         except TypeError:
             pass
+        except ConnectionResetError:
+            print('Connection close!')
+            receiver.timer.cancel()
+            sys.exit()
 
